@@ -108,4 +108,3 @@ O projeto inclui uma funcionalidade de visualização usando NetworkX e Matplotl
 - Arestas em azul
 - Caminho Hamiltoniano destacado em vermelho (quando encontrado)
 
-A imagem gerada é salva em `assets/grafo.png`.
